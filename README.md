@@ -18,6 +18,8 @@ First attempt: **AEGIS App Architect**. Second: **Starfish Prime**. Third and fi
 
 ## What I'm Building
 
+> Both repos are private — still in active development.
+
 ### [Apex Build](https://apex-build.dev)
 Multi-AI cloud development platform. AI agents plan, build, debug, and deploy software inside sandboxed environments — with real-time streaming, guaranteed delivery, rollback, diff review, budget enforcement, and a full IDE. Go backend, React/TypeScript frontend. Enterprise-ready: SAML, SCIM, RBAC, multi-provider AI routing (Claude, OpenAI, Gemini, Grok, Ollama), Docker sandboxes with seccomp profiles, operational transforms for real-time collaboration.
 
