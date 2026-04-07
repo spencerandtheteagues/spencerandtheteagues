@@ -6,6 +6,16 @@ Texas, USA &nbsp;·&nbsp; [@acognitivenexus](https://x.com/acognitivenexus) &nbs
 
 ---
 
+## Origin
+
+I built [MyAiMediaManager](#myaimediamanager) on Replit. Spent thousands of dollars. Replit kept failing — broken environments, lost work, no control. I had to start over and learn to build properly on my own.
+
+That experience raised a question: *what if there was a platform that actually worked for building apps with AI?*
+
+First attempt: **AEGIS App Architect**. Second: **Starfish Prime**. Third and final: **[Apex Build](https://apex-build.dev)** — the platform I wished had existed when I was building MAIMM. I didn't move on from the problem. I went up a level and solved it.
+
+---
+
 ## What I'm Building
 
 ### [Apex Build](https://apex-build.dev)
